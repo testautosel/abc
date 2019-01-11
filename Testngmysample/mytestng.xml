@@ -1,0 +1,11 @@
+<suite name="s">
+
+	<test name="t">
+		<classes>
+			<class name="package1.Testcase1" />
+		</classes>
+
+	</test>
+
+
+</suite>
